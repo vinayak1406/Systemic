@@ -14,7 +14,7 @@ BloomScroll is a powerful and efficient scrolling app created for web applicatio
 You can install BloomScroll via npm:
 
 ```bash
-npm install bloomscroll
+create a clone and add npm i to download all the libraries to be used
 ```
 
 ## Usage
@@ -22,22 +22,9 @@ npm install bloomscroll
 To use BloomScroll in your project, simply import it and initialize:
 
 ```javascript
-import BloomScroll from 'bloomscroll';
-
-const scroll = new BloomScroll({
-  speed: 2,
-  easing: 'ease-in-out'
-});
-
-scroll.init();
+npm run
+It will run on p0rt 3000
 ```
-
-## Configuration
-
-BloomScroll can be configured with the following options:
-
-- `speed`: The speed of the scrolling (default: 1)
-- `easing`: The easing function for the scrolling (default: 'linear')
 
 ## Contributing
 
@@ -45,8 +32,6 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open source and can be changed as per need.
 
-## Contact
 
-For any questions or feedback, please contact us at support@bloomscroll.com.
