@@ -1,12 +1,12 @@
 # BloomScroll
 
 BloomScroll is a powerful and efficient scrolling app created for web applications. It has smooth and customizable scrolling experiences for users.
+The project is built using React.js,Tailwind and gsap for Animation purposes.
 
 ## Features
 
 - Smooth scrolling
-- Customizable scroll speed
-
+- Better 
 - Lightweight and fast
 
 ## Installation
@@ -14,7 +14,7 @@ BloomScroll is a powerful and efficient scrolling app created for web applicatio
 You can install BloomScroll via npm:
 
 ```bash
-create a clone
+clone the repo 
 add npm i to download all the libraries to be used
 ```
 
